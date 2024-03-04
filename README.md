@@ -1,2 +1,1 @@
-# REACT-AUTH-PROJECT
-React-Auth Project
+# React-Auth-Project
